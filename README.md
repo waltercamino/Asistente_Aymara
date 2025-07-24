@@ -1,5 +1,4 @@
 # Asistente_Aymara
-# Asistente_Aymara
 
 ## 🤖 Descripción
 
